@@ -1,9 +1,12 @@
 object Q2 {      
   def main(args: Array[String]) {
-
-   println("profit is "+(profit(15)))
-   println("profit is "+(profit(20)))
-   println("profit is "+(profit(10))) 	
+   println("profit is "+(profit(5))+ " for price 5")
+   println("profit is "+(profit(10))+" for price 10")
+   println("profit is "+(profit(15))+" for price 15")
+   println("profit is "+(profit(20))+" for price 20")
+   println("profit is "+(profit(25))+" for price 25")
+   println("profit is "+(profit(30))+" for price 30")
+  
   	
 }
 
